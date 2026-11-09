@@ -1,0 +1,127 @@
+
+/* General Page Styling */
+body {
+    margin: 0;
+    font-family: Georgia, serif;
+    background-color:gainsboro
+    color: black;
+  
+
+/* Header */
+header {
+    background-color: #005747;
+    color: white;
+    text-align: center;
+    padding: 25px;
+    border-bottom: 3px solid orange;
+}
+
+/* Navigation Menu */
+nav {
+    position: sticky;
+    background-color: #24558c;
+    text-align: center;
+    padding: 15px;
+    border-bottom: 2px solid orange;
+}
+
+nav a {
+    color: white;
+    margin: 15px;
+    font-weight: bold;
+}
+
+/* Home Section */
+.home {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+    border: 3px solid #00bcd4;
+    background-color: #16436b;
+    color: white;
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.home h2,
+.home p {
+    background-color: #16436b;
+    padding: 8px;
+}
+
+/* General Section Styling */
+section {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+}
+
+/* About Section */
+.about {
+    border: 2px solid #00c853;
+}
+
+.about img {
+    border: 3px solid #00c853;
+    border-radius: 50%;
+}
+
+/* Projects Section */
+.projects {
+    border: 2px solid orange;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: steelblue;
+    color: white;
+}
+
+th, td {
+    border: 1px solid navy;
+    padding: 10px;
+    text-align: left;
+}
+
+/* Skills Section */
+.skills {
+    border: 2px solid #ba55d3;
+}
+
+/* Contact Section */
+.contact {
+    border: 2px solid deeppink;
+}
+
+.progress{
+
+border: 3px solid brown;
+
+}
+
+
+/* Footer */
+footer {
+    background-color: indigo;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-top: 3px solid deeppink;
+}
+
+footer a {
+    color: white;
+}
+
+/* Links */
+section a {
+    display: inline-block;
+    margin-top: 15px;
+}
