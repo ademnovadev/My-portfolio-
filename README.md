@@ -1,2 +1,2 @@
-# My-portfolio-
-My personal portfolio website and daily learning progress 
+# My-portfolio-website
+My personal portfolio website and daily commiting progress 
